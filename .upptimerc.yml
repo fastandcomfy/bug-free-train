@@ -16,7 +16,7 @@ sites:
     url: https://dev.fastandcomfy.io
     assignees:
       - ecelustka
-    # __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_peer: true
   - name: Dev Wizard
     url: https://wizarddev.fastandcomfy.io
     assignees:
