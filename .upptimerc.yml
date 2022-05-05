@@ -2,26 +2,47 @@ owner: fastandcomfy
 repo: bug-free-train 
 
 sites:
-  - name: Dev API
+  - name: DEV API
     url: https://apidev.fastandcomfy.io
     assignees:
       - ecelustka
     __dangerous__disable_verify_peer: true
-  - name: Dev Developers
+  - name: DEV Developers
     url: https://developersdev.fastandcomfy.io
     assignees:
       - ecelustka
     __dangerous__disable_verify_peer: true
-  - name: Dev Web
+  - name: DEV Web
     url: https://dev.fastandcomfy.io
     assignees:
       - ecelustka
     __dangerous__disable_verify_peer: true
-  - name: Dev Wizard
+  - name: DEV Wizard
     url: https://wizarddev.fastandcomfy.io
     assignees:
       - ecelustka
     __dangerous__disable_verify_peer: true
+  - name: DEV Wizard BE
+    url: $MONITOR_WIZARDBEDEV
+    assignees:
+      - podanypepa
+  - name: DEV API BE
+    url: $MONITOR_APIDEV
+    assignees:
+      - podanypepa
+  - name: DEV W1 BE
+    url: $MONITOR_W1
+    assignees:
+      - podanypepa
+  - name: DEV E1 BE
+    url: $MONITOR_E1
+    assignees:
+      - podanypepa
+  - name: BE Server
+    check: "tcp-ping"
+    url: $MONITOR_BESERVER
+    assignees:
+      - podanypepa
 status-website:
   cname: status.fastandcomfy.io
   # baseUrl: /bug-free-train
