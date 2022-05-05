@@ -4,12 +4,16 @@ repo: bug-free-train
 sites:
   - name: Dev API
     url: https://apidev.fastandcomfy.io
+    __dangerous__disable_verify_peer: true
   - name: Dev Developers
     url: https://developersdev.fastandcomfy.io
+    __dangerous__disable_verify_peer: true
   - name: Dev Web
     url: https://dev.fastandcomfy.io
+    __dangerous__disable_verify_peer: true
   - name: Dev Wizard
     url: https://wizarddev.fastandcomfy.io
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # cname: demo.upptime.js.org
