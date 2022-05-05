@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 596,
-    "timeWeek": 596,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "time": 886,
+    "timeDay": 886,
+    "timeWeek": 886,
+    "timeMonth": 886,
+    "timeYear": 886,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://developersdev.fastandcomfy.io",
     "icon": "https://favicons.githubusercontent.com/developersdev.fastandcomfy.io",
     "slug": "dev-developers",
-    "status": "down",
-    "uptime": "5.99%",
-    "uptimeDay": "5.99%",
-    "uptimeWeek": "5.99%",
-    "uptimeMonth": "5.99%",
-    "uptimeYear": "5.99%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.20%",
+    "uptimeDay": "1.20%",
+    "uptimeWeek": "1.20%",
+    "uptimeMonth": "1.20%",
+    "uptimeYear": "1.20%",
+    "time": 1028,
+    "timeDay": 1028,
+    "timeWeek": 1028,
+    "timeMonth": 1028,
+    "timeYear": 1028,
     "dailyMinutesDown": {
-      "2022-05-05": 0
+      "2022-05-05": 11
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://dev.fastandcomfy.io",
     "icon": "https://favicons.githubusercontent.com/dev.fastandcomfy.io",
     "slug": "dev-web",
-    "status": "down",
-    "uptime": "8.27%",
-    "uptimeDay": "8.27%",
-    "uptimeWeek": "8.27%",
-    "uptimeMonth": "8.27%",
-    "uptimeYear": "8.27%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.83%",
+    "uptimeDay": "0.83%",
+    "uptimeWeek": "0.83%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "0.83%",
+    "time": 600,
+    "timeDay": 600,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2022-05-05": 0
+      "2022-05-05": 11
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://wizarddev.fastandcomfy.io",
     "icon": "https://favicons.githubusercontent.com/wizarddev.fastandcomfy.io",
     "slug": "dev-wizard",
-    "status": "down",
-    "uptime": "3.29%",
-    "uptimeDay": "3.29%",
-    "uptimeWeek": "3.29%",
-    "uptimeMonth": "3.29%",
-    "uptimeYear": "3.29%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
+    "time": 317,
+    "timeDay": 317,
+    "timeWeek": 317,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2022-05-05": 0
+      "2022-05-05": 11
     }
   }
 ]
