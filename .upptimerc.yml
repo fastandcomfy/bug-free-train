@@ -43,6 +43,7 @@ sites:
     url: $MONITOR_BESERVER
     assignees:
       - podanypepa
+
 status-website:
   cname: status.fastandcomfy.io
   # baseUrl: /bug-free-train
@@ -53,6 +54,15 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+    # graphs: "0 0 * * *"
+    # responseTime: "0 6 * * *"
+    # staticSite: "0 1 * * *"
+    # summary: "0 0 * * *"
+    # updateTemplate: "0 0 * * *"
+    # updates: "0 3 * * *"
+    uptime: "0 0 * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
