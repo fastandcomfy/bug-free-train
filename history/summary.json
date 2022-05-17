@@ -43,10 +43,10 @@
     "url": "https://dev.fastandcomfy.io",
     "icon": "https://favicons.githubusercontent.com/dev.fastandcomfy.io",
     "slug": "dev-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 299,
@@ -55,6 +55,7 @@
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2022-05-17": 1,
       "2022-05-05": 13
     }
   },
@@ -63,18 +64,19 @@
     "url": "https://wizarddev.fastandcomfy.io",
     "icon": "https://favicons.githubusercontent.com/wizarddev.fastandcomfy.io",
     "slug": "dev-wizard",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 299,
     "timeDay": 143,
     "timeWeek": 276,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2022-05-17": 0,
       "2022-05-05": 11
     }
   },
