@@ -123,19 +123,19 @@
     "url": "$MONITOR_W1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-w1-be",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "92.42%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 734,
-    "timeDay": 511,
-    "timeWeek": 654,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "status": "up",
+    "uptime": "98.42%",
+    "uptimeDay": "65.98%",
+    "uptimeWeek": "95.14%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
+    "time": 724,
+    "timeDay": 498,
+    "timeWeek": 633,
+    "timeMonth": 724,
+    "timeYear": 724,
     "dailyMinutesDown": {
-      "2022-05-27": 109
+      "2022-05-27": 490
     }
   },
   {
@@ -144,18 +144,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-e1-be",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "92.43%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "98.42%",
+    "uptimeDay": "65.98%",
+    "uptimeWeek": "95.14%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
     "time": 701,
     "timeDay": 636,
     "timeWeek": 655,
     "timeMonth": 701,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2022-05-27": 109
+      "2022-05-27": 490
     }
   },
   {
